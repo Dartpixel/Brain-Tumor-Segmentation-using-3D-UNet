@@ -21,6 +21,6 @@ The Dataset used is avilable on Kaggle as named BRATS2020 datset. dataset Link- 
 ## Close alignment between the predicted results and actual labels 
 <img width="872" height="345" alt="image" src="https://github.com/user-attachments/assets/619c3333-bc21-4fdf-9288-1330e0b8d57b" />
 
-## Close alignment bactualetween the predicted results and labels
+## Close alignment between the predicted results and labels
 <img width="872" height="345" alt="image" src="https://github.com/user-attachments/assets/1a66bd95-f497-4613-9f05-474d29615255" />
 
